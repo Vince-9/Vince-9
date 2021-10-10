@@ -18,6 +18,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 2021年10月 新番推荐
+
+#### [我被逐出队伍后过上慢生活](https://www.bilibili.com/bangumi/play/ss39461/?from=search&seid=9447077237126467124&spm_id_from=333.337.0.0)
+
+纯爱向作品。讲原本为骑士的男主实力跟不上队伍后，在边境隐居开了一家药店。但曾经的伙伴追上门来要一起生活。
+
+![](./imgs/slowlife.png)
+
+#### [【9.9分】LoveLive 爱与演唱会!超级明星!!](https://www.bilibili.com/bangumi/play/ep417077?spm_id_from=333.999.0.0)
+
+其实是7月番，但奈何审核速度实在是太慢了。
+
+“太好听了吧！”
+
+观感非常好，制作质量优秀。
+
+![](./imgs/lovelive.png)
 
 ## 2021年7月 新番推荐
 
@@ -52,6 +69,15 @@ Here are some ideas to get you started:
 希耶斯塔我真的爱了，很可爱。第一话就换装数次，每次都足以让人发AWSL。就是男主的声优似乎是个新人？感觉感情不是很到位。
 
 ![侦探已死](./imgs/ztys1.png)
+
+#### [白沙的水族馆](https://www.bilibili.com/bangumi/play/ep410624)
+
+又名：来自风平浪静的甘城光辉水族馆
+
+三玖声优
+
+预期：只要不搞风平浪静的幺蛾子剧情就行。
+![](./imgs/szg.png)
 
 #### [小林家的龙女仆第二季](https://www.bilibili.com/bangumi/play/ss38921/)
 
