@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 #### 相合之物
 
 
-#### 排队浪客诸葛孔明
+#### 派对浪客诸葛孔明
 
 设定很有意思。
 #### 朋友游戏
